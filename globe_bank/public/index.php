@@ -8,7 +8,7 @@
 
   <body>
 
-    <h1>Globe Bank: Coming Soon</h1>
+  	<h1>Globe Bank Coming soon</h1>
 
   </body>
 </html>
