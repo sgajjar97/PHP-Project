@@ -14,7 +14,7 @@
   <body>
 
   	<header>
-  		<h1>GBI Staff Area</h1>
+  		<h1>GNB Staff Area</h1>
   	</header>
 
   	<navigation>
